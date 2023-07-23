@@ -1,10 +1,13 @@
 
 # Wavee Estate
-![estate-2](https://github.com/Oghene-agba/Wavee-Estate/assets/72680556/d7216e59-6ceb-4f5b-84b0-528a8bc26ef6)
+
+![estate](https://github.com/Oghene-agba/Wavee-Estate/assets/72680556/e3faf000-950b-4bca-91ac-6af7c7e67fc4)
+
 
 A React project that showcases a real estate website landing page built with React.
 
-![estate-1](https://github.com/Oghene-agba/Wavee-Estate/assets/72680556/f4e14176-e50c-4e80-a042-7de47f9ff5e9)
+![estate_b](https://github.com/Oghene-agba/Wavee-Estate/assets/72680556/2d8693f5-966d-4f63-a335-90cc67a68bb8)
+
 
 
 # Introduction
