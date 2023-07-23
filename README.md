@@ -4,7 +4,7 @@
 
 A React project that showcases a real estate website landing page built with React.
 
-![Uploading estate-1.png…]()
+![estate-1](https://github.com/Oghene-agba/Wavee-Estate/assets/72680556/f4e14176-e50c-4e80-a042-7de47f9ff5e9)
 
 
 # Introduction
