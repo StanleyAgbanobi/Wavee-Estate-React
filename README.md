@@ -1,5 +1,5 @@
 
-# Wavee Estate
+# Wavee-Estate
 
 ![estate](https://github.com/Oghene-agba/Wavee-Estate/assets/72680556/e3faf000-950b-4bca-91ac-6af7c7e67fc4)
 
