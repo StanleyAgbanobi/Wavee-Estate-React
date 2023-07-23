@@ -24,7 +24,7 @@ Navigate to the project directory: `cd wavee-estate`
 
 Install the dependencies: `npm install` or `npm i`
     
-# Usage
+## Usage
 
 To start the development server and view the project 
 
